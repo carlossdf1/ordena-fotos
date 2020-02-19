@@ -1,0 +1,5 @@
+C:\Users\Carlos-sdf1\Documents\Visual Studio 2015\Projects\OrganizaFotos\OrganizaFotos\bin\Debug\OrganizaFotos.exe.config
+C:\Users\Carlos-sdf1\Documents\Visual Studio 2015\Projects\OrganizaFotos\OrganizaFotos\bin\Debug\OrganizaFotos.exe
+C:\Users\Carlos-sdf1\Documents\Visual Studio 2015\Projects\OrganizaFotos\OrganizaFotos\bin\Debug\OrganizaFotos.pdb
+C:\Users\Carlos-sdf1\Documents\Visual Studio 2015\Projects\OrganizaFotos\OrganizaFotos\obj\Debug\OrganizaFotos.exe
+C:\Users\Carlos-sdf1\Documents\Visual Studio 2015\Projects\OrganizaFotos\OrganizaFotos\obj\Debug\OrganizaFotos.pdb
